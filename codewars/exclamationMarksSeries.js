@@ -39,8 +39,6 @@ function balance(left, right) {
   } else {
     return 'Right'
   }
-
-  // console.log(leftCount, rightCount)
 }
 
 balance('!!', '??')
